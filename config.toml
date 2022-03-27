@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://Junkher.github.io"
+baseURL = "https://Junklog.yyds"
 title = "Just for Fronting"
 languageCode = "en"
 hasCJKLanguage = false
