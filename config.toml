@@ -4,7 +4,7 @@
 baseURL = "https://Junkher.github.io"
 title = "Just for Fronting"
 languageCode = "en"
-hasCJKLanguage = false
+hasCJKLanguage = true
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
@@ -217,19 +217,19 @@ uglyURLs = false
         post = "archive"
     [[menu.main]]
         pageref = "/categories/"
-        name = "Categories"
+        name = "分类"
         weight = 3
         pre = "internal"
         post = "th"
     [[menu.main]]
         pageref = "/tags/"
-        name = "Tags"
+        name = " "
         weight = 4
         pre = "internal"
         post = "tags"
     [[menu.main]]
         pageref = "/about/"
-        name = "About"
+        name = " "
         weight = 5
         pre = "internal"
         post = "user-circle"
@@ -239,10 +239,10 @@ uglyURLs = false
     [[menu.main]]
         weight = 7
         identifier = "lang-switcher"
-    [[menu.main]]
-        weight = 8
-        identifier = "search"
-        post = "search"
+#    [[menu.main]]
+#       weight = 8
+#        identifier = "search"
+#       post = "search"
 
 
 
@@ -454,7 +454,7 @@ uglyURLs = false
     # Note: left or right
 
     # Separate the list by month?
-    groupByMonth = true
+    groupByMonth = false
 
     # Enable Chinese zodiac?
     chineseZodiac = true
@@ -999,7 +999,7 @@ uglyURLs = false
     # Footer
     fontFamilyFooter = ""
     # Body
-    fontFamilyBody = "'IBM Plex Serif', serif"
+    fontFamilyBody = "'Amstelvar', 'Noto Serif SC', serif"
 
     # Embed fonts link
     fontsLink = "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Comfortaa:wght@700&display=swap"
