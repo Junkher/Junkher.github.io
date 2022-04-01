@@ -217,13 +217,13 @@ uglyURLs = false
         post = "archive"
     [[menu.main]]
         pageref = "/categories/"
-        name = "分类"
+        name = "category"
         weight = 3
         pre = "internal"
         post = "th"
     [[menu.main]]
         pageref = "/tags/"
-        name = " "
+        name = "tag"
         weight = 4
         pre = "internal"
         post = "tags"
