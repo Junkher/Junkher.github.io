@@ -106,9 +106,9 @@ uglyURLs = false
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = "https://www.junklog.tk/"
     # Twitter
-    twitter = ""
+    twitter = "https://www.junklog.tk/"
 
 # Related content
 [related]
@@ -361,7 +361,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = "junker"
     # Note: used for Twitter Cards
 
 
